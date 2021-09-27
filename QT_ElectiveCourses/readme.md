@@ -7,7 +7,7 @@ The first line contains the number of courses - <strong>n</strong> (an integer n
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="/QT_ElectiveCourses//images/gui.png" alt="gui" width="300" height="500" /></td>
+<td align="center"><img src="/QT_ElectiveCourses//images/gui.png" alt="gui" width="500" height="300" /></td>
 </tr>
 </tbody>
 </table>
