@@ -2,11 +2,14 @@
 
 <strong>Input format</strong>
 The first line contains the number of courses - <strong>n</strong> (an integer not exceeding 10000). <br />The next <strong>n</strong> lines contain the names of the courses.<br /></span></pre>
-<table style="height: 228px;" width="552">
+
+
+<table>
 <tbody>
 <tr>
-<td style="width: 542px;"><img src="/images/gui.png" alt="gui" width="500" height="300" /></td>
+<td align="center"><img src="/images/gui.png" alt="gui" width="300" height="500" /></td>
 </tr>
 </tbody>
 </table>
+
 <pre id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" data-placeholder="Translation"><span class="Y2IQFc" lang="en">&nbsp;</span></pre>
