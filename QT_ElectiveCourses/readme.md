@@ -3,6 +3,7 @@
 <strong>Input format</strong>
 The first line contains the number of courses - <strong>n</strong> (an integer not exceeding 10000). <br />The next <strong>n</strong> lines contain the names of the courses.<br /></span></pre>
 
+<strong>QT C++ IMPLEMENTATION:</strong>
 
 <table>
 <tbody>
