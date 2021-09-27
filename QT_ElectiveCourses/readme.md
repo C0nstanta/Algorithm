@@ -7,9 +7,19 @@ The first line contains the number of courses - <strong>n</strong> (an integer n
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="/QT_ElectiveCourses//images/gui.png" alt="gui" width="500" height="300" /></td>
+<td align="center"><img src="/QT_ElectiveCourses/images/gui.png" alt="gui" width="500" height="300" /></td>
 </tr>
 </tbody>
 </table>
+
+<strong>The same on Russian:</strong>
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="/QT_ElectiveCourses/images/task_courses.png" alt="gui" width="500" height="1300" /></td>
+</tr>
+</tbody>
+</table>
+
 
 <pre id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" data-placeholder="Translation"><span class="Y2IQFc" lang="en">&nbsp;</span></pre>
