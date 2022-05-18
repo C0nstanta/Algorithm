@@ -7,7 +7,6 @@ Color Piece::getColor() const
 {
    //and one more
    return _color;
->>>>>>> feature02
 }
 
 PieceType Piece::getPieceType() const
