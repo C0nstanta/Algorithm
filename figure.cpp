@@ -5,7 +5,9 @@
 
 Color Piece::getColor() const
 {
-    return _color;
+    //and one more
+    return _color ;
+    //some changes
 }
 
 PieceType Piece::getPieceType() const
